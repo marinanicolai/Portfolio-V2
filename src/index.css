@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-5xl;
+  }
+  h2 {
+    @apply text-xl;
+  }
+  h3 {
+    @apply text-base;
+  }
+  h4 {
+    @apply text-sm;
+  }
+  h5 {
+    @apply text-xs;
+  }
+  body {
+    @apply text-base;
+    @apply bg-backdrop;
+    font-family: 'Inter';
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  #League_Cursor:hover {
+    cursor: url(https://cur.cursors-4u.net/games/gam-14/gam1340.cur), auto !important;
+  }
+}
