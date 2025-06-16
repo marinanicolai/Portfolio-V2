@@ -1,8 +1,4 @@
-import SorterImage from "@assets/images/Sorter.png";
-import PathfinderImage from "@assets/images/Pathfinder.png";
 import CampWatPaImage from "@assets/images/CampWatPa.png";
-import StudentBoardImage from "@assets/images/StudentBoard.png";
-import SpaceXImage from "@assets/images/SpaceX Analytics.png";
 
 export type Portfolio = {
   fullName: string;
@@ -67,7 +63,14 @@ const PORTFOLIO_DATA: Portfolio = {
     }
   ],
   projects: [
-    
+    {
+      title: "Camp Wat Pa",
+      description:
+        "Volunteered as a Frontend Developer for Camp Wat Pa, a youth leadership program in La Puente, California. Proud to contribute to empowering the next generation of leaders through this transformative summer camp.",
+      link: "https://campwatpa.org/",
+      tags: ["TypeScript", "React", "HTML", "CSS"],
+      imageSrc: CampWatPaImage,
+    }
   ],
 };
 

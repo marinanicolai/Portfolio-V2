@@ -5,5 +5,6 @@ import svgr from "vite-plugin-svgr";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/", // GitHub Pages base path
   plugins: [tsconfigPaths(), react(), svgr()],
 });
