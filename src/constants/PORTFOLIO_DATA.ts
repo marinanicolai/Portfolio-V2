@@ -34,7 +34,7 @@ export type Projects = {
 
 const PORTFOLIO_DATA: Portfolio = {
   fullName: "Marina Nicolai",
-  role: "Frontend Engineer at USPS",
+  role: "Full Stack Engineer at USPS",
   catchPhrase: "I build captivating user interfaces that engage and delight.",
   socials: {
     email: "nicolaimarina@gmail.com",
@@ -45,21 +45,21 @@ const PORTFOLIO_DATA: Portfolio = {
     {
       dateFrom: "2022",
       dateTo: "PRESENT",
-      position: "Frontend Engineer",
+      position: "Full Stack Engineer",
       companyName: "USPS",
       url: "https://www.usps.com/",
       description:
         "Coordinated and led three Frontend teams to developer 'USPS' Web App, a unified platform merging three products. Provided technical support and expertise across various engineering teams to expedite project development, troubleshoot issues, and implement bug fixes.",
-      tags: ["TypeScript", "React", "Redux", "HTML", "SCSS","Jest"],
+      tags: ["TypeScript", "React", "Redux", "HTML", "SCSS","Jest","CSharp", "Azure DevOps","AWS","Figma"],
     },
     {
       dateFrom: "2022",
       dateTo: "PRESENT",
-      position: "Frontend Engineer",
+      position: "Full Stack Engineer",
       companyName: "Contract (M3-Technology)",
       description:
         "Took a pivotal role in end-to-end development of innovative features, from conceptualization to implementation. Led Design System management, streamlining design process with Figma for application consistency.",
-      tags: ["TypeScript", "React", "Redux", "HTML", "SCSS", "Figma"],
+      tags: ["TypeScript", "React", "Redux", "HTML", "SCSS","Jest","CSharp", "Azure DevOps","AWS","Figma"],
     }
   ],
   projects: [

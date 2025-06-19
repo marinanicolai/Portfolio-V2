@@ -114,7 +114,7 @@ function App() {
             <div className="flex flex-col gap-4 ">
               <p className="bg-backdrop text-neutral-400">
                 From an early age, I was captivated by technology. From dismantling my first computer to building my{" "}
-                <CalloutLink href="https://locchuong.github.io/locchuong/">first website</CalloutLink>, nothing beats the satisfaction of
+                <CalloutLink>first website</CalloutLink>, nothing beats the satisfaction of
                 understanding how it all comes together.
               </p>
               <p className="bg-backdrop text-neutral-400">
