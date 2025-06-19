@@ -119,7 +119,7 @@ function App() {
               </p>
               <p className="bg-backdrop text-neutral-400">
                 Fast-forward to today, I'm focused on building the next generation of Accounting workflows at{" "}
-                <CalloutLink href="https://www.sage.com/en-gb/sage-network/">USPS</CalloutLink>. I've had the pleasure of contributing to
+                <CalloutLink href="https://www.usps.gov">USPS</CalloutLink>. I've had the pleasure of contributing to
                 groundbreaking projects and collaborating with some of the best minds in the industry.
               </p>
               <p className="bg-backdrop text-neutral-400">
